@@ -1,0 +1,32 @@
+  *{ margin: 0;
+    padding: 0;
+  
+}
+
+.first{
+margin-top: 100px;
+margin-left: 100px;
+margin-right: 100px;
+}
+#top{
+    display: flex;
+    align-items: center;
+}
+.h1{
+font-size: 45px;
+margin-top: 50px;
+text-align: center;
+
+}
+.hr1{
+   width: 100%;
+  background-color: rgb(209, 219, 219);
+  height: 7px;
+}
+/*-----------------------second from---------------------*/
+.from2{
+    margin-top: 25px;
+    text-align: center;
+    background-color: aqua;
+}
+ 
